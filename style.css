@@ -12,7 +12,7 @@ body {
   font-family: impact;
   color: #fff;
   text-shadow: 0 0 3px #000;
-  text-decoration: solid;
+  /* text-decoration: solid; */
   text-shadow: 2px 3px 20px black;
 }
 
